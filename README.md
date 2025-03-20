@@ -1,7 +1,8 @@
 ## oi👋 me chamo ramon da silva
-atulmente estou aprendendo desenvolvimento de sistema, e já trabalhei na drogaria cachoeiro e uma coisa que gosto muito é carro
+atulmente estou aprendendo desenvolvimento de sistema, e já trabalhei na drogaria cachoeiro, e uma coisa que gosto muito é carro
 
 <img src="https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/aa/c5/72.jpg" alt="Imagem de Perfil">
+
 <!--
 **ramon028/ramon028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
