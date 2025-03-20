@@ -1,4 +1,4 @@
-## oi👋 me chamo ramon da silva
+## oi👋 me chamo ramon 
 atulmente estou aprendendo desenvolvimento de sistema, e já trabalhei na drogaria cachoeiro, e uma coisa que gosto muito é carro
 
 <img src="https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/aa/c5/72.jpg" alt="Imagem de Perfil">
